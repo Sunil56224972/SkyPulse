@@ -6,12 +6,14 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d dist"
+    "preview": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy"
   },
   "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.36.3",
+    "gh-pages": "^6.1.1",
     "vite": "^7.1.7",
-    "gh-pages": "^6.1.1"
+    "wrangler": "^4.90.0"
   },
   "dependencies": {
     "dat.gui": "^0.7.9",
