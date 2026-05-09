@@ -12,7 +12,7 @@
 
 Watch live aircraft traverse photorealistic curved flight paths across a dynamic day/night Earth — all rendered at 60 FPS in your browser.
 
-[🚀 Live Demo](#) · [📖 How It Works](#-how-it-works) · [⚙️ Setup](#-getting-started) · [🤝 Contributing](#-contributing)
+[🚀 Live Demo](https://sky-pulse-chi.vercel.app/) · [📖 How It Works](#-how-it-works) · [⚙️ Setup](#-getting-started) · [🤝 Contributing](#-contributing)
 
 </div>
 
