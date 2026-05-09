@@ -5,6 +5,7 @@ export default defineConfig({
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
+    chunkSizeWarningLimit: 1000,
   },
   // Make sure assets in public folder are copied with correct paths
   publicDir: 'public',
